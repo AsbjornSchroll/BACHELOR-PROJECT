@@ -18,3 +18,5 @@ Third part: Having the python application communicate with the ESP32 through ser
 
 OVERALL: This was a bachelor's project with as much focus on innovation and iterative design processes as on the technical part. A very "loose" defined project: "Smart Remanufacturing of products", my bachelor partner and I were required to provide an in-depth research and be creative early on to actually find the problem we wanted to solve.
 
+There is also a video, where the whole system is visualised linked in this repository.
+
